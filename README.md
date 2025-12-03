@@ -13,7 +13,13 @@ Transforming raw financial data into actionable intelligence using **MySQL + Pow
 </p>
 
 ---
+##  Project Origin
 
+***This project is fully conceptualized, designed, and executed by me from end to end.
+All the data, business rules, and portfolio structure were created entirely from my imagination to simulate a real-world financial risk analytics environment.
+The goal was to challenge myself to build a complete, production-style analytics system — from synthetic data generation to SQL-driven modeling and Power BI intelligence dashboards.***
+
+---
 ## 🧠 **Project Overview**
 
 **FinSight Orion** is an end-to-end analytics system built to uncover
