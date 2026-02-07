@@ -14,6 +14,12 @@ Transforming raw financial data into actionable intelligence using **MySQL + Pow
 ---
 ##  Project Origin
 
+
+  
+<img width="1757" height="732" alt="Screenshot (467)" src="https://github.com/user-attachments/assets/459d638c-b0cd-4271-bcad-2b0c8102630a" />
+
+
+
 ***This project is fully conceptualized, designed, and executed by me from end to end.
 All the data, business rules, and portfolio structure were created entirely from my imagination to simulate a real-world financial risk analytics environment.
 The goal was to challenge myself to build a complete, production-style analytics system — from synthetic data generation to SQL-driven modeling and Power BI intelligence dashboards.***
@@ -91,9 +97,14 @@ Claim Events: **222**
    * Contracts vs Defaults by Channel
    * Top KPIs (Contracts, Defaults, Claims, Profit)
 
-2. **Executive Summary Page**
 
-   * Story-style insight narration
+
+
+<img width="1446" height="729" alt="Screenshot (468)" src="https://github.com/user-attachments/assets/d85dfbdd-490e-499a-9b9c-589c47000081" />
+
+
+2. **Executive Summary Page**
+ry-style insight narration
    * High-level patterns, risks, and opportunities
 
 ---
@@ -124,9 +135,6 @@ Claim Events: **222**
 
 * Claims were rare but **high-severity**, concentrated among
   a few asset categories like Cars and Trucks.
-"C:\Users\niket\OneDrive\Pictures\Screenshots\Screenshot (467).png"
----
-"C:\Users\niket\OneDrive\Pictures\Screenshots\Screenshot (468).png"
 ---
 
 ## 🧾 **Conclusion**
